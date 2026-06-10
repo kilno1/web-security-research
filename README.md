@@ -10,16 +10,19 @@
 
 ## 报告列表
 
-| 漏洞名称 | 难度 | 类型 |
+| 漏洞名称 | 入口 | 类型 |
 |---------|------|------|
-| 文件上传漏洞-路径遍历绕过 | 从业者 | File Upload |
-| SQL 注入漏洞分析 | 学徒/从业者 | SQL Injection |
-| 访问控制漏洞分析 | 学徒/从业者 | Access Control |
+| CSRF Token验证取决于请求方法 | 从业者 | CSRF |
+| XSS漏洞-AngularJS表达式注入 | 从业者 | XSS |
+| SQL注入漏洞-布尔盲注分析 | 从业者 | SQL注入 |
+| SQL注入漏洞-联合注入分析 | 学徒/从业者 | SQL注入 |
+| 文件上传漏洞-路径绕过 | 从业者 | 文件上传 |
 
 ## 工具
 
 - Burp Suite
 - PortSwigger Web Security Academy
+- Python自动化脚本（盲注等场景）
 
 ## 声明
 
